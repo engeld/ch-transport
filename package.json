@@ -1,7 +1,7 @@
 {
-  "name": "uk-transport",
-  "version": "0.2.6",
-  "description": "UK Transport app for the Pebble smartwatch.",
+  "name": "ch-transport",
+  "version": "0.0.1",
+  "description": "CH Transport app for the Pebble smartwatch.",
   "main": "karma.conf.js",
   "directories": {
     "doc": "docs"
@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/smallstoneapps/uk-transport.git"
+    "url": "git://github.com/engeld/ch-transport.git"
   },
-  "author": "Matthew Tole <pebble@matthewtole.com>",
+  "author": "Dana Engel <pebble@engeld.cc>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/smallstoneapps/uk-transport/issues"
+    "url": "https://github.com/engeld/ch-transport/issues"
   },
   "devDependencies": {
     "karma-script-launcher": "~0.1.0",
