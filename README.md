@@ -1,13 +1,7 @@
-![UK Transport Banner](http://smallstoneapps.s3.amazonaws.com/uk-transport/marketing/banner_02_train.png)
+# CH Transport - Switzerland's best public transport app for Pebble
+The ultimate Pebble app for people in Switzerland who use public transport.
 
-The ultimate Pebble app for people in the UK who use public transport.
-
-Find your nearest train stations and bus stops, and see the upcoming departures. Also, see the status of the London Underground network.
-
-[![Available on the Pebble App Store](http://dev.pblweb.com/badge/52d3086712ea3dec7e00001b/black/medium/)][1]
-
-#### Featured on BBC Breakfast
-![BBC Breakfast Screenshot](https://smallstoneapps.s3.amazonaws.com/uk-transport/marketing/bbc-breakfast-2014-02-15.png)
+Find your nearest train stations and bus stops, and see the upcoming departures. 
 
 --
 
@@ -16,4 +10,3 @@ Find your nearest train stations and bus stops, and see the upcoming departures.
 ![Screenshot 03](http://pblweb.com/screenshots/wrap/?colour=steel_stainless&url=http://smallstoneapps.s3.amazonaws.com/uk-transport/screenshots/uk-transport_0-1-0_train-stations.png)
 ![Screenshot 04](http://pblweb.com/screenshots/wrap/?colour=steel_stainless&url=http://smallstoneapps.s3.amazonaws.com/uk-transport/screenshots/uk-transport_0-1-0_train-departures.png)
 
-[1]: http://pblweb.com/appstore/52d3086712ea3dec7e00001b
