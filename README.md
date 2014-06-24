@@ -1,4 +1,4 @@
-# CH Transport - Switzerland's best public transport app for Pebble
+# Switzerland's best public transport app for Pebble
 The ultimate Pebble app for people in Switzerland who use public transport.
 
 Find your nearest train stations and bus stops, and see the upcoming departures. 
