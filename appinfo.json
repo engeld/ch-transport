@@ -1,10 +1,10 @@
 {
-  "uuid": "00e9deeb-16b4-4752-ae35-2cc088fc6ca9",
-  "shortName": "UK Transport",
-  "longName": "UK Transport",
-  "companyName": "Matthew Tole",
-  "versionCode": 8,
-  "versionLabel": "0.2.6",
+  "uuid": "",
+  "shortName": "CH Transport",
+  "longName": "Switzerland Transport",
+  "companyName": "Dana Engel",
+  "versionCode": 1,
+  "versionLabel": "0.0.1",
   "watchapp": {
     "watchface": false
   },
